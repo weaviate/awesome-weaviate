@@ -1,0 +1,2 @@
+# awesome-weaviate
+Awesome Weaviate
