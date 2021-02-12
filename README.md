@@ -4,12 +4,12 @@
 
 Awesome list of examples and tutorials of how to use the Vector Search Engine
 
-Basic links: [Documentation](https://github.com/semi-technologies/weaviate) – [Github](https://www.semi.technology/developers/weaviate/current/)
+Basic links: [Documentation](https://www.semi.technology/developers/weaviate/current/) – [Github](https://github.com/semi-technologies/weaviate)
 
 ## Table of Contents
 
 * [Examples](#examples)
-  * [List of Weaviate examples]()
+  * [List of Weaviate examples](https://github.com/semi-technologies/weaviate-examples)
 * [Blog posts](#blog-posts)
   * [Towards datascience: A sub-50ms neural search with DistilBERT and Weaviate](https://towardsdatascience.com/a-sub-50ms-neural-search-with-distilbert-and-weaviate-4857ae390154)
   * [Db-engines.com: Weaviate, an ANN Database with CRUD support](https://db-engines.com/en/blog_post/87)
