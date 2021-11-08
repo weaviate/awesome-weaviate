@@ -58,7 +58,7 @@
 
 
 
-* ### [Videos](#videos)
+* ### [Presentation at Conferences](#conference)
   * [Weaviate @ FOSDEM 2021](https://www.youtube.com/watch?v=SDOl9fRObVg)
   * [Weaviate Python client](https://www.youtube.com/watch?v=oN2WKHLYKCc)
   * [Weaviate @ FOSDEM 2020](https://www.youtube.com/watch?v=3NfcAF4qm2k)
@@ -67,10 +67,13 @@
 
 
 * ### [Interviews](#interviews)
+  * [Sagepub Journal](https://journals.sagepub.com/doi/full/10.1177/2394964320968996)
 
 * ### [Google Colab Notebooks](#colab_notebooks)
+  * [Filter Similar Documents (distractors) Weaviate](https://colab.research.google.com/drive/1Jo0kP32GI3EJhdzLc5KZ5Zs7E1rKhOs-?usp=sharing)
+  * [Getting-Started-With-Weaviate-Python-Client](https://colab.research.google.com/drive/1jDJIzW1QU0vqMf2AJS_T-4IrpCvXiNIw?usp=sharing#scrollTo=communist-correction)
 
-* ### [Presentation at Conferences](#conference)
+
 
 * ### [Podcasts](#podcast)
   * [Google Cloud Podcast](https://www.gcppodcast.com/post/episode-198-semi-technologies-with-laura-ham/)
@@ -79,3 +82,11 @@
 * ### [Demo Datasets](#datasets)
   * [Weaviate Examples](https://github.com/semi-technologies/weaviate-examples)
   * [Example Datasets](https://www.semi.technology/developers/weaviate/current/tutorials/example-datasets.html)
+
+* ### [Meetups](#meetups)
+  - https://youtu.be/gIIsZ21hdfk
+  - https://youtu.be/L0Y_zZR8FRI
+  - https://youtu.be/uKYDHzjEsbU
+  - https://youtu.be/6hdEJdHWXRE
+  - https://youtu.be/DCQWqMecdlA
+  - https://youtu.be/ouNlTYRHKpw
