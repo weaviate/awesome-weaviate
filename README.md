@@ -43,7 +43,7 @@
   * [Hackernoon: How Weaviate's GraphQL API was designed](https://hackernoon.com/how-weaviates-graphql-api-was-designed-t93932tl)
   * [Hackernoon: Weaviate is your Search Engine for Vector Embeddings](https://hackernoon.com/weaviate-is-your-search-engine-for-vector-embeddings-z43p329l)
   * [Hackernoon: The History of the Weaviate Vector Search Engine](https://hackernoon.com/the-history-of-the-weaviate-search-graph-gk9132dc)
-  * [ICT Magazine (Dutch):](https://www.ictmagazine.nl/uitgelicht/wat-als-je-ongestructureerde-data-echt-kan-begrijpen/ (Dutch))
+  * [ICT Magazine (Dutch)](https://www.ictmagazine.nl/uitgelicht/wat-als-je-ongestructureerde-data-echt-kan-begrijpen/ (Dutch))
   * [Towards DataScience: Not All Vector Databases Are Made Equal](https://towardsdatascience.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696)
   * [Medium: Knowledge Graph Search of 60 Million Vectors with Weaviate](https://medium.com/keenious/knowledge-graph-search-of-60-million-vectors-with-weaviate-7964657ec911)
   * [SeMI blog: Taxonomies, Ontologies and Scehmas How they relate to Weaviate](https://medium.com/semi-technologies/taxonomies-ontologies-and-schemas-how-do-they-relate-to-weaviate-9f76739fc695)
@@ -84,9 +84,9 @@
   * [Example Datasets](https://www.semi.technology/developers/weaviate/current/tutorials/example-datasets.html)
 
 * ### [Meetups](#meetups)
-  - https://youtu.be/gIIsZ21hdfk
-  - https://youtu.be/L0Y_zZR8FRI
-  - https://youtu.be/uKYDHzjEsbU
-  - https://youtu.be/6hdEJdHWXRE
-  - https://youtu.be/DCQWqMecdlA
-  - https://youtu.be/ouNlTYRHKpw
+  * [Horizontal Scaling, Sharding, Kubernetes, and more in Weaviate v1.8.0](https://youtu.be/gIIsZ21hdfk)
+  * [Getting Started (setup, vectorizers, schemas, importing data and GraphQL)](https://youtu.be/L0Y_zZR8FRI)
+  * [How to create custom modules in Weaviate?](https://youtu.be/uKYDHzjEsbU)
+  * [Architecture Deep Dive, how to build a vector database](https://youtu.be/6hdEJdHWXRE)
+  * [Introducing transformers (DistilBERT, BERT, Sentence-BERT)](https://youtu.be/DCQWqMecdlA)
+  * [Weaviate V1.0 release](https://youtu.be/ouNlTYRHKpw)
