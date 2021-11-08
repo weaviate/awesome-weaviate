@@ -7,7 +7,12 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Slack](https://img.shields.io/badge/slack--channel-blue?logo=slack)](https://join.slack.com/t/weaviate/shared_invite/zt-goaoifjr-o8FuVz9b1HLzhlUfyfddhw)
 [![Newsletter](https://img.shields.io/badge/newsletter-blue?logo=mailchimp)](https://www.semi.technology/newsletter/) 
+![Issues](https://img.shields.io/github/issues/semi-technologies/weaviate)
+</br>
 
+![Forks](https://img.shields.io/github/forks/semi-technologies/weaviate)
+![Stars](https://img.shields.io/github/stars/semi-technologies/weaviate?color=green)
+![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSeMI_tech)
 </div>
 
 ### Awesome list of examples and tutorials of how to use the Vector Search Engine
