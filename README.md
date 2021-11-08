@@ -68,7 +68,14 @@
 
 * ### [Interviews](#interviews)
 
-* ### [Google Colab Notebooks](#colab notebooks)
+* ### [Google Colab Notebooks](#colab_notebooks)
 
 * ### [Presentation at Conferences](#conference)
 
+* ### [Podcasts](#podcast)
+  * [Google Cloud Podcast](https://www.gcppodcast.com/post/episode-198-semi-technologies-with-laura-ham/)
+  * [Pitch and interview for Dutch Applied AI Award 2021 (in Dutch)](https://open.spotify.com/episode/2vTC604e7cOsRIibadE9GX?si=5c50440c99514cfe)
+
+* ### [Demo Datasets](#datasets)
+  * [Weaviate Examples](https://github.com/semi-technologies/weaviate-examples)
+  * [Example Datasets](https://www.semi.technology/developers/weaviate/current/tutorials/example-datasets.html)
