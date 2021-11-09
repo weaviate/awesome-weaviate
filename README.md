@@ -12,7 +12,9 @@
 
 ![Forks](https://img.shields.io/github/forks/semi-technologies/weaviate)
 ![Stars](https://img.shields.io/github/stars/semi-technologies/weaviate?color=green)
-![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSeMI_tech)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSeMI_tech)](https://twitter.com/SeMI_tech)
+[![Youtube](https://img.shields.io/youtube/channel/views/UCJKT6kJ3IFYybWnL7jbXxhQ?style=social)](https://www.youtube.com/channel/UCJKT6kJ3IFYybWnL7jbXxhQ)
+[![Linkedin](https://img.shields.io/badge/Linkedin-SeMI%20Technologies-yellowgreen)](https://www.linkedin.com/company/semi-technologies/)
 </div>
 
 ### Awesome list of examples and tutorials of how to use the Vector Search Engine
