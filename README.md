@@ -36,6 +36,8 @@
   * [List of Weaviate examples](https://github.com/semi-technologies/weaviate-examples)
 
 * ### [Blog posts](#blog-posts)
+
+  * [Semantic search through Wikipedia with Weaviate (GraphQL, Sentence-BERT, and BERT Q&A)](https://towardsdatascience.com/semantic-search-through-wikipedia-with-weaviate-graphql-sentence-bert-and-bert-q-a-3c8a5edeacf6)
   * [SeMI blog: Getting Started with the Weaviate Vector Search Engine](https://medium.com/semi-technologies/getting-started-with-the-weaviate-vector-search-engine-10e3997ac3b)
   * [SeMI blog: Weaviate Is A Search Engine For Vector Embeddings](https://medium.com/semi-technologies/weaviate-is-a-search-engine-for-vector-embeddings-33d5b8d99014)
   * [Towards datascience: A sub-50ms neural search with DistilBERT and Weaviate](https://towardsdatascience.com/a-sub-50ms-neural-search-with-distilbert-and-weaviate-4857ae390154)
