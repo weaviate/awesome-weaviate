@@ -6,7 +6,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Slack](https://img.shields.io/badge/slack--channel-blue?logo=slack)](https://join.slack.com/t/weaviate/shared_invite/zt-goaoifjr-o8FuVz9b1HLzhlUfyfddhw)
-[![Newsletter](https://img.shields.io/badge/newsletter-blue?logo=mailchimp)](https://www.semi.technology/newsletter/) 
+[![Newsletter](https://img.shields.io/badge/newsletter-blue?logo=mailchimp)](http://weaviate-newsletter.semi.technology/) 
 ![Issues](https://img.shields.io/github/issues/semi-technologies/weaviate)
 </br>
 
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-## [📃Documentation](https://www.semi.technology/developers/weaviate/current/) &emsp;  [👩‍💻Github](https://github.com/semi-technologies/weaviate) &emsp; [📑ReadMe](https://github.com/semi-technologies/weaviate#readme)
+## [📃Documentation](https://weaviate.io/developers/weaviate/current/) &emsp;  [👩‍💻Github](https://github.com/semi-technologies/weaviate) &emsp; [📑ReadMe](https://github.com/semi-technologies/weaviate#readme)
 </div>
 
 ---
@@ -90,7 +90,7 @@
 
 * ### [Demo Datasets](#datasets)
   * [Weaviate Examples](https://github.com/semi-technologies/weaviate-examples)
-  * [Example Datasets](https://www.semi.technology/developers/weaviate/current/tutorials/example-datasets.html)
+  * [Example Datasets](https://weaviate.io/developers/weaviate/current/tutorials/example-datasets.html)
 
 * ### [Meetups](#meetups)
   * [Horizontal Scaling, Sharding, Kubernetes, and more in Weaviate v1.8.0](https://youtu.be/gIIsZ21hdfk)
