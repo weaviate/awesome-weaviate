@@ -17,7 +17,7 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-SeMI%20Technologies-yellowgreen)](https://www.linkedin.com/company/semi-technologies/)
 </div>
 
-### Awesome list of examples and tutorials of how to use the Vector Search Engine
+### Awesome list of examples and tutorials on how to use the Vector Search Engine
 
 ---
 
