@@ -5,14 +5,14 @@
 <div align="center"> 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Slack](https://img.shields.io/badge/slack--channel-blue?logo=slack)](https://join.slack.com/t/weaviate/shared_invite/zt-goaoifjr-o8FuVz9b1HLzhlUfyfddhw)
+[![Slack](https://img.shields.io/badge/slack--channel-blue?logo=slack)](https://weaviate.io/slack)
 [![Newsletter](https://img.shields.io/badge/newsletter-blue?logo=mailchimp)](http://weaviate-newsletter.semi.technology/) 
 ![Issues](https://img.shields.io/github/issues/semi-technologies/weaviate)
 </br>
 
 ![Forks](https://img.shields.io/github/forks/semi-technologies/weaviate)
 ![Stars](https://img.shields.io/github/stars/semi-technologies/weaviate?color=green)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSeMI_tech)](https://twitter.com/SeMI_tech)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSeMI_tech)](https://twitter.com/weaviate_io)
 [![Youtube](https://img.shields.io/youtube/channel/views/UCJKT6kJ3IFYybWnL7jbXxhQ?style=social)](https://www.youtube.com/channel/UCJKT6kJ3IFYybWnL7jbXxhQ)
 [![Linkedin](https://img.shields.io/badge/Linkedin-SeMI%20Technologies-yellowgreen)](https://www.linkedin.com/company/semi-technologies/)
 </div>
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-## [📃Documentation](https://weaviate.io/developers/weaviate/current/) &emsp;  [👩‍💻Github](https://github.com/semi-technologies/weaviate) &emsp; [📑ReadMe](https://github.com/semi-technologies/weaviate#readme)
+## [📃Documentation](https://weaviate.io/developers/weaviate) &emsp;  [👩‍💻Github](https://github.com/weaviate/weaviate) &emsp; [📑ReadMe](https://github.com/weaviate/weaviate#readme)
 </div>
 
 ---
@@ -33,7 +33,7 @@
 <h2 align="center"> Table of Contents </h2>
 
 * ### [Examples](#examples)
-  * [List of Weaviate examples](https://github.com/semi-technologies/weaviate-examples)
+  * [List of Weaviate examples](https://github.com/weaviate/weaviate-examples)
 
 * ### [Blog posts](#blog-posts)
 
@@ -89,7 +89,7 @@
   * [Pitch and interview for Dutch Applied AI Award 2021 (in Dutch)](https://open.spotify.com/episode/2vTC604e7cOsRIibadE9GX?si=5c50440c99514cfe)
 
 * ### [Demo Datasets](#datasets)
-  * [Weaviate Examples](https://github.com/semi-technologies/weaviate-examples)
+  * [Weaviate Examples](https://github.com/weaviate/weaviate-examples)
   * [Example Datasets](https://weaviate.io/developers/weaviate/current/tutorials/example-datasets.html)
 
 * ### [Meetups](#meetups)
