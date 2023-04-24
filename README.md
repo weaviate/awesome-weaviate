@@ -30,7 +30,7 @@
 
 ---
 
-<h2 align="center"> Table of Contents </h2>
+<h2 align="center"> Contents </h2>
 
 * ### [Examples](#examples)
   * [List of Weaviate examples](https://github.com/semi-technologies/weaviate-examples)
